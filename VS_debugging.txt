@@ -1,0 +1,17 @@
+BREAK POINT / DEBUGGER 
+
+WARNING MESSAGE
+“The breakpoint will not currently be hit. No symbols have been loaded for this document.” 
+
+1. Right mouse click your project
+2. Select [Properties]
+3. Select the [Build] tab
+4. Make sure [Define DEBUG constant] and [Define TRACE constant] are checked
+5. Make sure [Optimize Code] is unchecked
+6. Click the [Advanced] button at the bottom of the Build tabpage
+7. Make sure that [Debug Info:] is set to [full]
+8. Click [OK] and rebuild the project 
+
+
+
+
